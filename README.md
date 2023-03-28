@@ -9,12 +9,21 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Cobblemon
 
 ### Utilities
+- n/a
 
 ### Optimization & Libraries
 - Fabric Api
+- Lithium
+- Phosphor
+- Sodium
+- Indium
+- Iris
 - Architectury Api
+- Faithful 64x
+- Solar Shader
+- Your Options Shall Be Respected (YOSBR)
 
-## Credits & License
+##  License & Credits
 
 This modpack uses the same license as Cobblemon: [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/). In addition, some of the authors of the assets used require an attribution back to their page. So here is a list of the mods/resource packs that have this requirement:
 

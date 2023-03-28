@@ -1,8 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "1a76b8d1a684d9899c238565c83009c5ad9b65445b827ae013bcab9a77765d33"
+
+[[files]]
 file = "README.md"
-hash = "e00afa2ef17dfe94b25816f21249c4848970811feefb28e9d52b59dfc1fad82c"
+hash = "3226ba47e9d28fcb5a0d7be802e7f7df6f2de4d9124d502dbbfecc460ef3e8b8"
+
+[[files]]
+file = "config/bcc.json"
+hash = "030f3321ed829c9276164012d7b5d39c803d5967deb64005792ce952ef32879e"
+
+[[files]]
+file = "config/iris.properties"
+hash = "7e8e7c56a89aae827246b84388865db5f3359f1037ea6919ffa445505604729c"
+
+[[files]]
+file = "config/noindium.json"
+hash = "c68fd562f7d4bbe651717435ef6b02113a5fe6929ea01e9e163191ad8fc1ff61"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "904ecd6c4ab1f0c022ce9eee5d1bc3c48bd7cab8f85c98e5c559669feae4dc2b"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -18,3 +38,41 @@ metafile = true
 file = "mods/fabric-api.pw.toml"
 hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "2355898e55539353e3fe43057c1c2880e02ceb6b64c8f5d1e0bc2a660635c323"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Faithful 64x.zip"
+hash = "f048e5127145a9c74da8fe45706ee1cb748c22397b62b270491b8de0541077ed"
+
+[[files]]
+file = "shaderpacks/Solas Shader V1.4.zip"
+hash = "35eefd2bd714101db3bbe547571bcdd4c82460e92e458313efab3589a2aedbd5"
