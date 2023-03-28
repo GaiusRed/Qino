@@ -1,0 +1,13 @@
+name = "Qino"
+author = "GaiusRed"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5acad4e6a764ca628bb50a167608b834912f73f0e01ec74ed3739ddf312d24d5"
+
+[versions]
+fabric = "0.14.18"
+minecraft = "1.19.2"

@@ -1,0 +1,20 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "e00afa2ef17dfe94b25816f21249c4848970811feefb28e9d52b59dfc1fad82c"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "4ffb12523a48867ad4d711ca43771e038d4baab3820deb3d003f268670ed1bb4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+metafile = true
