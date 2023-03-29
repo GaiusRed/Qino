@@ -1,5 +1,15 @@
 # Qino
 
+## v0.1.2 Alpha - Utilities
+- Add mods
+  - BetterF3 v4.0.0-Fabric-1.19.2
+  - Continuity v2.0.2+1.19
+  - Roughly Enough Items (REI) v9.1.595
+  - Xaero's Minimap v23.3.2_Fabric_1.19.1
+  - Xaero's World Map v1.29.4_Fabric_1.19.1
+- Add a resource pack
+  - Kiece_XaerosMinimap_Cobblemon_v3.0
+
 ## v0.1.1 Alpha - Optimizing fabric, shaders + textures
 - Add mods
   - Lithium mc1.19.2-0.11.1

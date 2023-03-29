@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "1a76b8d1a684d9899c238565c83009c5ad9b65445b827ae013bcab9a77765d33"
+hash = "557af165136979d2579a6781b43e8f48dcd93cc687e0c622fd5efd1308a12265"
 
 [[files]]
 file = "README.md"
-hash = "3226ba47e9d28fcb5a0d7be802e7f7df6f2de4d9124d502dbbfecc460ef3e8b8"
+hash = "cd0046fde10779ee86089e551534d078849f8530cfb21ab54ba81a8c14076c7d"
 
 [[files]]
 file = "config/bcc.json"
-hash = "030f3321ed829c9276164012d7b5d39c803d5967deb64005792ce952ef32879e"
+hash = "5a4543a906a5f6e42cdb643aa4fa21bc3193a270e56d9aeeb71244fab17d538f"
 
 [[files]]
 file = "config/iris.properties"
@@ -21,8 +21,20 @@ file = "config/noindium.json"
 hash = "c68fd562f7d4bbe651717435ef6b02113a5fe6929ea01e9e163191ad8fc1ff61"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "4acca7fe00b296e65fe165db01a026e7e339bd479e0c790e1aa0be75650a97cb"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "d908ace7beb41d9547345a51de278cf3d6d6888a33d86d5a69d481b365c1c98b"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "d4bc61faf30005533c52e9902520e2fa909d44c585dfd41e10029c9f508ac498"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "904ecd6c4ab1f0c022ce9eee5d1bc3c48bd7cab8f85c98e5c559669feae4dc2b"
+hash = "7f7fb5b901235ceb78e67878fc9233fd985d3af54531a0bc43565bd02660976a"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -30,8 +42,18 @@ hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "4ffb12523a48867ad4d711ca43771e038d4baab3820deb3d003f268670ed1bb4"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
@@ -60,8 +82,23 @@ hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "3338f396414aec1072a0e3cd2211a52f7b15a0fd6c3e46e7ccad58daa8d2dcbd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "8890eeab73dd8a1112f486112a7119e64a959f8c35c609be5a540cf46b6595ca"
 metafile = true
 
 [[files]]
@@ -72,6 +109,10 @@ metafile = true
 [[files]]
 file = "resourcepacks/Faithful 64x.zip"
 hash = "f048e5127145a9c74da8fe45706ee1cb748c22397b62b270491b8de0541077ed"
+
+[[files]]
+file = "resourcepacks/Kiece_XaerosMinimap_Cobblemon_v3.0.zip"
+hash = "e8e7be9f9613f6068769d2bb560b42ade544fbd9d07d549a7d64f8c03e67ba09"
 
 [[files]]
 file = "shaderpacks/Solas Shader V1.4.zip"
