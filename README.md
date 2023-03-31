@@ -7,6 +7,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 
 ### Featured Mods
 - Cobblemon
+- Create Fabric
 
 ### Utilities
 - BetterF3

@@ -1,5 +1,12 @@
 # Qino
 
+## v0.1.3 Alpha - Create v0.5
+- Add mods
+  - Create Fabric v0.5.0.i-961+1.19.2
+- Add a resource pack
+  - CreateMon v1.1
+- Adjust configuration for REI
+
 ## v0.1.2 Alpha - Utilities
 - Add mods
   - BetterF3 v4.0.0-Fabric-1.19.2
