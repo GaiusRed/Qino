@@ -1,5 +1,14 @@
 # Qino
 
+## v0.1.5 Alpha - Oh The Biomes You'll Go
+- Add mods
+  - Continents v1.1.2
+  - Terralith v2.3.7b
+  - Incendium v5.1.3a
+  - Nullscape v1.2.1
+- Add a resource pack
+  - Remove_Terralith_Intro_Message_v1.0
+
 ## v0.1.4 Alpha - Sleeping Bags, Waystones & Gravestones
 - Add mods
   - bad packets v0.2.1

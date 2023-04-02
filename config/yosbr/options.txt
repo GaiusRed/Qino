@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:5
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","file/Faithful 64x.zip","continuity/default","continuity/glass_pane_culling_fix","file/Kiece_XaerosMinimap_Cobblemon_v3.1.zip","file/CreateMon-v1.1.zip"]
+resourcePacks:["vanilla","Fabric Mods","file/Faithful 64x.zip","continuity/default","continuity/glass_pane_culling_fix","file/Kiece_XaerosMinimap_Cobblemon_v3.1.zip","file/CreateMon-v1.1.zip", "file/Remove_Terralith_Intro_Message_v1.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

@@ -1,12 +1,12 @@
 name = "Qino"
 author = "GaiusRed"
-version = "0.1.4"
+version = "0.1.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8645c5b5089b15ea94e840073594e56ea532a46b6a6bee86648cd6ea3412a354"
+hash = "a50bc8f5337b9cee9feb4de3d0768e6f153c55a5f415fddca31878ac504b6ed5"
 
 [versions]
 fabric = "0.14.18"

@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "71a8a59a6a96a39e13c61a5cecb01e50969be4a3f85827876f96d0494553d305"
+hash = "731c2d4de8464b6b014c217c3b82b512b05bb554bf320d7558a38b59afe8efd3"
 
 [[files]]
 file = "README.md"
-hash = "5371d6ac8fd21e320fc19706d5720aef1d8c8700f0a89d7be0074297b9331675"
+hash = "00eb0e9a30d35b52f8fcbc899afd75d8180077b0df2afe8adcefe8cf55733c37"
 
 [[files]]
 file = "config/bcc.json"
-hash = "946b31bd476db7bce17aac81307cf074b8a75ebd6a1f8b1ee96cc7d34cc8b280"
+hash = "85bb16540c5f07f03ac58b0e77168df24495ff7603d0684f46f63bfff4ff8c8c"
 
 [[files]]
 file = "config/create-client.toml"
@@ -58,7 +58,7 @@ hash = "d4bc61faf30005533c52e9902520e2fa909d44c585dfd41e10029c9f508ac498"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f6638552bc398f06fca709ca162971c2b84a61895b007de6559cf250e3098ffd"
+hash = "98ac1e92b2cba720b9a00321e4d2ce9efaf688e58a11bc47c171e84fa58e1149"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -91,6 +91,11 @@ hash = "e6ad077b2b20ca9bb5a6b371cd5e5c4c77bd8e6613d9a498b23c48bf16ea60c3"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "070be0c173cc30cfeb25f889e93fbe2f8bf22c3ff1b0ec1aa2ae989ab51796de"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
@@ -111,6 +116,11 @@ hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "55120505f95248a17a5f3d24b9ac328749ab03883a18bef3e634e40cc7b1c1b9"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -126,6 +136,11 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "80e6f15ebc852ba4e4b6d14dbc2a9d2b3514aac104840f5c279bd4cb726977aa"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
@@ -138,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "7d8109543303c680aa1d4d5d4e81548ec602f910ca2e9a32133a07c0dc3c2df7"
 metafile = true
 
 [[files]]
@@ -181,6 +201,10 @@ hash = "f048e5127145a9c74da8fe45706ee1cb748c22397b62b270491b8de0541077ed"
 [[files]]
 file = "resourcepacks/Kiece_XaerosMinimap_Cobblemon_v3.1.zip"
 hash = "417455dc9d0911f7d8881f587aefb44b4582721b413a69426e5dc759b95a53f5"
+
+[[files]]
+file = "resourcepacks/Remove_Terralith_Intro_Message_v1.0.zip"
+hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
 [[files]]
 file = "shaderpacks/Solas Shader V1.4.zip"
