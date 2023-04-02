@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "6bcba4f80ff7f7c6917fed98e8c62303816af28e1896e990f8ce209e72318b48"
+hash = "71a8a59a6a96a39e13c61a5cecb01e50969be4a3f85827876f96d0494553d305"
 
 [[files]]
 file = "README.md"
-hash = "ab624804e61dd71dd77b5e1a9fb8e0492397c61576007c3d6cfc27db45683b51"
+hash = "5371d6ac8fd21e320fc19706d5720aef1d8c8700f0a89d7be0074297b9331675"
 
 [[files]]
 file = "config/bcc.json"
-hash = "caf0793e981eb12fbb4cce919cc1e39ea5c7ff2f0e7ea89e4ca7cc64a0193934"
+hash = "946b31bd476db7bce17aac81307cf074b8a75ebd6a1f8b1ee96cc7d34cc8b280"
 
 [[files]]
 file = "config/create-client.toml"
@@ -30,7 +30,19 @@ hash = "c68fd562f7d4bbe651717435ef6b02113a5fe6929ea01e9e163191ad8fc1ff61"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "e623c8ebd735bddba54a43a6e38c5d5a312716ccf6fdb41ad2fd5c3216d93786"
+hash = "84a00e24c43e96f9931ccc269de1e7fa6bb499746e70bd29c2afd5295c739f06"
+
+[[files]]
+file = "config/universal-graves.json"
+hash = "391f67a49d80a5475dd81c027464a626d1917821eed201c862e542ad90ca71d7"
+
+[[files]]
+file = "config/waystones.toml"
+hash = "461d0c4d128f39c779f9b496c2680edcca8ca12fa8241752a40dddb3dd8d3e3c"
+
+[[files]]
+file = "config/waystones/config.json"
+hash = "2d95c8626c5c6c196b71459c670546e86535045d10bd898bbe996c97239f68f0"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -46,11 +58,21 @@ hash = "d4bc61faf30005533c52e9902520e2fa909d44c585dfd41e10029c9f508ac498"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "bd75696ea31d13ee1259426b25580d7b69dfd668d862542e7bd8e77532cb5559"
+hash = "f6638552bc398f06fca709ca162971c2b84a61895b007de6559cf250e3098ffd"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
@@ -60,7 +82,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "4ffb12523a48867ad4d711ca43771e038d4baab3820deb3d003f268670ed1bb4"
+hash = "83614dafb16c2e29f08dfcf8f6105ed8bc7450d1e8b3ad078282504e9c44ae81"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "e6ad077b2b20ca9bb5a6b371cd5e5c4c77bd8e6613d9a498b23c48bf16ea60c3"
 metafile = true
 
 [[files]]
@@ -71,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
+metafile = true
+
+[[files]]
+file = "mods/deepslatecutting.pw.toml"
+hash = "0479206225a4fe784aa2866d422a0f9bad857a8c1ade89179d6626f812c4fbb8"
 metafile = true
 
 [[files]]
@@ -109,6 +141,21 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "624cce653a3d8d5d551e6bd314da46fdb7184babb1c907dbf3df7f1d6526ccca"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "a79026bfd754ab1c9203a75a12c293f8482560e5683ab069e867b496184cee45"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "3338f396414aec1072a0e3cd2211a52f7b15a0fd6c3e46e7ccad58daa8d2dcbd"
 metafile = true
@@ -132,8 +179,8 @@ file = "resourcepacks/Faithful 64x.zip"
 hash = "f048e5127145a9c74da8fe45706ee1cb748c22397b62b270491b8de0541077ed"
 
 [[files]]
-file = "resourcepacks/Kiece_XaerosMinimap_Cobblemon_v3.0.zip"
-hash = "e8e7be9f9613f6068769d2bb560b42ade544fbd9d07d549a7d64f8c03e67ba09"
+file = "resourcepacks/Kiece_XaerosMinimap_Cobblemon_v3.1.zip"
+hash = "417455dc9d0911f7d8881f587aefb44b4582721b413a69426e5dc759b95a53f5"
 
 [[files]]
 file = "shaderpacks/Solas Shader V1.4.zip"

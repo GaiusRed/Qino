@@ -1,5 +1,19 @@
 # Qino
 
+## v0.1.4 Alpha - Sleeping Bags, Waystones & Gravestones
+- Add mods
+  - bad packets v0.2.1
+  - Balm v4.5.7+fabric-1.19.2
+  - Comforts v6.0.4+1.19.2
+  - DeepslateCutting v1.5.0
+  - Universal Graves v2.1.3+1.19.2
+  - Waystones v11.3.1+fabric-1.19.2
+  - WTHIT v5.15.1
+- Update mods
+  - Cobblemon v1.3.0+1.19.2 -> v1.3.2+1.19.2
+- Update a resource pack
+  - Kiece_XaerosMinimap_Cobblemon_v3.0 -> v3.1
+
 ## v0.1.3 Alpha - Create v0.5
 - Add mods
   - Create Fabric v0.5.0.i-961+1.19.2

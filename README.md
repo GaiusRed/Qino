@@ -11,7 +11,11 @@ An updated list of mods and their versions can be accessed here: https://modrint
 
 ### Utilities
 - BetterF3
+- Comforts
 - Roughly Enough Items (REI)
+- Universal Graves
+- Waystones
+- WTHIT
 - Xaero's Minimap
 - Xaero's World Map
 
@@ -23,6 +27,8 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Indium
 - Iris
 - Architectury Api
+- bad packets
+- Balm
 - Continuity
 - Faithful 64x
 - Solar Shader
