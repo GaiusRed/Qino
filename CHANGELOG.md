@@ -1,5 +1,14 @@
 # Qino
 
+## v0.1.6 Alpha - Rural Lifestyle
+- Add mods
+  - Adorn v3.8.2-fabric
+  - Chalk v2.1.0
+  - Cobblemon Delights v0.0.2
+  - Fabric Language Kotlin v1.9.3+kotlin.1.8.20
+  - Farmer's Delight v1.3.9
+  - Inventory Sorting v1.8.10-1.19
+
 ## v0.1.5 Alpha - Oh The Biomes You'll Go
 - Add mods
   - Continents v1.1.2

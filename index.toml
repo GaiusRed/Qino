@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "731c2d4de8464b6b014c217c3b82b512b05bb554bf320d7558a38b59afe8efd3"
+hash = "ed2434610c8c2526505fba0f08cf873faa4d6bb03828e658aabd5bff8d96934f"
 
 [[files]]
 file = "README.md"
-hash = "00eb0e9a30d35b52f8fcbc899afd75d8180077b0df2afe8adcefe8cf55733c37"
+hash = "2fa5264fc8b1d3401eadabd6873e53a1e5f979b6b9a25dd9e6b97b531226f00e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "85bb16540c5f07f03ac58b0e77168df24495ff7603d0684f46f63bfff4ff8c8c"
+hash = "bafba30e919ebe9f771bed70bd85607d6c85e75e2390e90e9c9e24d875cb7388"
 
 [[files]]
 file = "config/create-client.toml"
@@ -61,6 +61,11 @@ file = "config/yosbr/options.txt"
 hash = "98ac1e92b2cba720b9a00321e4d2ce9efaf688e58a11bc47c171e84fa58e1149"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "0904d6eaf57c3a13708c22af5eccaac980cbaa38097d1ebfff6429be207b367a"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
 metafile = true
@@ -78,6 +83,16 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
+metafile = true
+
+[[files]]
+file = "mods/chalk.pw.toml"
+hash = "776d8d4d93ed3052d46f77857707a09dfd77196b2e55de23455e2e4c81e36af9"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-delights.pw.toml"
+hash = "b8f8c49dd03e710bcf00c377ba1f16e9fa10e6deab1b8277a3aa5b3c234396d4"
 metafile = true
 
 [[files]]
@@ -116,6 +131,16 @@ hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "55120505f95248a17a5f3d24b9ac328749ab03883a18bef3e634e40cc7b1c1b9"
 metafile = true
@@ -123,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "9ec7fac40bbe6f5e496993422b10b9df982cbf9ad5f8631f1070476cbf20b5fe"
 metafile = true
 
 [[files]]

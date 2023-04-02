@@ -11,11 +11,16 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - Terralith
 - Incendium
 - Nullscape
+- Adorn
+- Chalk
+- Farmer's Delight
+- Cobblemon Delights
 
 ### Utilities
 - BetterF3
 - Comforts
 - Continents
+- Inventory Sorting
 - Roughly Enough Items (REI)
 - Universal Graves
 - Waystones
@@ -34,6 +39,7 @@ An updated list of mods and their versions can be accessed here: https://modrint
 - bad packets
 - Balm
 - Continuity
+- Fabric Language Kotlin
 - Faithful 64x
 - Solar Shader
 - Your Options Shall Be Respected (YOSBR)
